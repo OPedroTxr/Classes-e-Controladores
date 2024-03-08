@@ -46,6 +46,7 @@ public class main {
                     break;
                 case 4:
                     //Print all;
+                    _musicManager.printAllList();
                 default:
             }
         } while (menuSelection != 0);
